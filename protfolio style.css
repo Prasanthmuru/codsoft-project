@@ -1,0 +1,43 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #0a58a5;
+  padding: 20px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #000;
+}
+
+#hero {
+  text-align: center;
+  padding: 50px 0;
+}
+
+section {
+  padding: 20px;
+}
+
+.project-item {
+  margin-bottom: 20px;
+}
+footer {
+    background-color: #175aa1;
+    padding: 20px;
+  }
